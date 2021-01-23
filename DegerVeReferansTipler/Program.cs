@@ -21,6 +21,7 @@ namespace DegerVeReferansTipler
             //int, decimal, float, double, bool = değer tip
             //array, class, interface = referans tip
             //değer tiplerde değer atanır, referans tiplerde adresler atanır
+
         }
     }
 }
