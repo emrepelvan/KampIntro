@@ -14,7 +14,5 @@ namespace OOP1
         public double UnitPrice { get; set; }
         public int UnitsInStock { get; set; }
 
-        
-
     }
 }

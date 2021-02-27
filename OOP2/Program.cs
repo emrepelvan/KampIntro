@@ -6,7 +6,7 @@ namespace OOP2
     {
         static void Main(string[] args)
         {
-            //Musteri customer1 = new Musteri();
+            //Musteri müsteri1 = new Musteri();
             //customer1.Adi = "Emre";
             //customer1.Soyadi = "Pelvan";
             //customer1.Id = 1;
@@ -33,7 +33,7 @@ namespace OOP2
             //Gerçek Müşteri - Tüzel Müşteri
             //SOLID
 
-            Musteri musteri3 = new GercekMusteri();
+            Musteri musteri3 = new GercekMusteri();  
             Musteri musteri4 = new TuzelMüsteri();
 
             MusteriManager musteriManager = new MusteriManager();

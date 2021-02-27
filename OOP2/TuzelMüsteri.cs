@@ -5,7 +5,7 @@ using System.Text;
 namespace OOP2
 {
     //Coorporate - Tüzel Müşteri
-    //miras-- Inheritance
+    //miras Inheritance
     class TuzelMüsteri:Musteri
     {
       

@@ -5,7 +5,7 @@ using System.Text;
 namespace OOP2
 {
     //Indivudial - Gerçek Müşteri
-    //miras-- Inheritance
+    //miras Inheritance
     class GercekMusteri :Musteri
     {
         public string TcNo { get; set; }

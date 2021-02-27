@@ -15,5 +15,7 @@ namespace OOP2
             //}
 
         }
+
+        //base sınıfın varsa referans tutucudur.
     }
 }
